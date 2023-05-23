@@ -12,5 +12,9 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "loadtest": "^5.2.0",
+    "pm2": "^5.3.0"
   }
 }
